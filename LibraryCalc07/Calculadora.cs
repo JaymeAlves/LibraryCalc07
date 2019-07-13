@@ -31,6 +31,11 @@ namespace LibraryCalc07
             return x * y;
         }
 
+        public int Multiplicacao(int x, int y, int z)
+        {
+            return x * y * z;
+        }
+
         /// <summary>
         /// Realizza a Soma de x e y
         /// </summary>
