@@ -58,6 +58,9 @@ namespace LibraryCalc07
             return x - y;
         }
 
-        
+        public int Subtracao(int x, int y, int z)
+        {
+            return x + y + z;
+        }
     }
 }

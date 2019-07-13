@@ -42,5 +42,6 @@ namespace LibraryCalc07
         int Multiplicacao(int x, int y);
 
         int Soma(int x, int y, int z);
+        int Subtracao(int x, int y, int z);
     }
 }
